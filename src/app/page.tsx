@@ -76,6 +76,12 @@ export default function Component() {
   
   const projects = [
     {
+      title: "solifess",
+      description: "Menfess that can send a song for Polines people. github is private for security purpose.",
+      tech: ["Javascript", "React", "Next", "Tailwind", "Shadcn", "Postgresql"],
+      demo: "https://www.solifess.fun/"
+    },
+    {
       title: "BeliJasa.com",
       description: "local marketplace for buying and selling services",
       tech: ["MangoDB", "Express", "React", "Node.js"],
